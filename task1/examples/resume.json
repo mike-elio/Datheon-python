@@ -1,0 +1,54 @@
+{
+  "document_type": "resume",
+  "name": "Sara Ahmad",
+  "email": "sara.ahmad@example.com",
+  "phone": "+966 50 123 4567",
+  "location": "Riyadh, Saudi Arabia",
+  "summary": "Software engineer experienced in developing Python applications and processing data with SQL. Specializes in building APIs, automating tasks, and improving data quality.",
+  "skills": [
+    "Python",
+    "SQL",
+    "FastAPI",
+    "PostgreSQL",
+    "Git",
+    "pytest",
+    "Docker",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "company": "Example Technology",
+      "title": "Software Engineer",
+      "start": "March 2022",
+      "end": "Present",
+      "highlights": [
+        "Developed REST APIs using Python and FastAPI.",
+        "Built tools to clean customer data and validate its quality.",
+        "Optimized SQL queries, reducing report generation time by 30%.",
+        "Wrote automated tests using pytest and participated in code reviews."
+      ]
+    },
+    {
+      "company": "Digital Solutions",
+      "title": "Software Development Intern",
+      "start": "June 2021",
+      "end": "December 2021",
+      "highlights": [
+        "Contributed to an internal employee management system.",
+        "Wrote scripts to automate data entry and report generation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Example University",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation": "2021"
+    }
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "warnings": []
+}

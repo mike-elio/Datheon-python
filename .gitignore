@@ -1,0 +1,7 @@
+.env
+.venv/
+.python/
+.uv-cache/
+__pycache__/
+*.pyc
+/cv.txt

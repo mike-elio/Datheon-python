@@ -1,0 +1,11 @@
+Invoice INV-1042
+Vendor: Al Noor Company
+Customer: Al Afaq Establishment
+Issue date: 2026-10-01
+Due date: 2026-10-15
+Currency: SAR
+
+Maintenance service: quantity 2, unit price 50, amount 100.
+Subtotal: 100
+Tax: 15
+Total due: 115

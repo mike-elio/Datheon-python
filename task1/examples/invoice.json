@@ -1,0 +1,21 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "INV-1042",
+  "vendor": "Al Noor Company",
+  "customer": "Al Afaq Establishment",
+  "issue_date": "2026-10-01",
+  "due_date": "2026-10-15",
+  "currency": "SAR",
+  "items": [
+    {
+      "description": "Maintenance service",
+      "quantity": 2,
+      "unit_price": 50,
+      "amount": 100
+    }
+  ],
+  "subtotal": 100,
+  "tax": 15,
+  "total": 115,
+  "warnings": []
+}
